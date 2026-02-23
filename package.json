@@ -1,0 +1,24 @@
+{
+  "name": "arkanoid",
+  "version": "1.0.0",
+  "description": "Classic Arkanoid Retro Brick Breaker Game",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "arkanoid",
+    "breakout",
+    "brick-breaker",
+    "retro",
+    "arcade",
+    "game"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
